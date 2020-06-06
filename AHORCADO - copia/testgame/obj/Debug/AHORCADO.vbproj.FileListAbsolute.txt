@@ -1,0 +1,77 @@
+D:\AHORCADO - copia\testgame\bin\Debug\HANGMAN.exe
+D:\AHORCADO - copia\testgame\bin\Debug\HANGMAN.pdb
+D:\AHORCADO - copia\testgame\bin\Debug\HANGMAN.xml
+D:\AHORCADO - copia\testgame\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\AHORCADO - copia\testgame\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\AHORCADO - copia\testgame\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\AHORCADO - copia\testgame\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.ResolveComReference.cache
+D:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.Form1.resources
+D:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.GIVE_WORD.resources
+D:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.Resources.resources
+D:\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.GenerateResource.Cache
+D:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.exe
+D:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.xml
+D:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.pdb
+D:\AHORCADO\testgame\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\AHORCADO\testgame\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\AHORCADO\testgame\obj\Debug\AHORCADO.vbproj.ResolveComReference.cache
+D:\AHORCADO\testgame\obj\Debug\HANGMAN.exe
+D:\AHORCADO\testgame\obj\Debug\HANGMAN.xml
+D:\AHORCADO\testgame\obj\Debug\HANGMAN.pdb
+D:\AHORCADO\testgame\bin\Debug\HANGMAN.exe
+D:\AHORCADO\testgame\bin\Debug\HANGMAN.pdb
+D:\AHORCADO\testgame\bin\Debug\HANGMAN.xml
+D:\AHORCADO\testgame\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\AHORCADO\testgame\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\AHORCADO\testgame\obj\Debug\HANGMAN.Form1.resources
+D:\AHORCADO\testgame\obj\Debug\HANGMAN.GIVE_WORD.resources
+D:\AHORCADO\testgame\obj\Debug\HANGMAN.Resources.resources
+D:\AHORCADO\testgame\obj\Debug\AHORCADO.vbproj.GenerateResource.Cache
+F:\AHORCADO - copia\testgame\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\AHORCADO - copia\testgame\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.ResolveComReference.cache
+F:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.exe
+F:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.xml
+F:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.pdb
+F:\AHORCADO - copia\testgame\bin\Debug\HANGMAN.exe
+F:\AHORCADO - copia\testgame\bin\Debug\HANGMAN.pdb
+F:\AHORCADO - copia\testgame\bin\Debug\HANGMAN.xml
+F:\AHORCADO - copia\testgame\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\AHORCADO - copia\testgame\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.Form1.resources
+F:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.GIVE_WORD.resources
+F:\AHORCADO - copia\testgame\obj\Debug\HANGMAN.Resources.resources
+F:\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.GenerateResource.Cache
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.ResolveComReference.cache
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\HANGMAN.exe
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\HANGMAN.xml
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\HANGMAN.pdb
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\bin\Debug\HANGMAN.exe
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\bin\Debug\HANGMAN.pdb
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\bin\Debug\HANGMAN.xml
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\HANGMAN.Form1.resources
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\HANGMAN.GIVE_WORD.resources
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\HANGMAN.Resources.resources
+C:\Users\4L3X4ND3R\Documents\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.GenerateResource.Cache
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbprojAssemblyReference.cache
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.ResolveComReference.cache
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\HANGMAN.Form1.resources
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\HANGMAN.GIVE_WORD.resources
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.GenerateResource.cache
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\HANGMAN.exe
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\HANGMAN.xml
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\HANGMAN.pdb
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\bin\Debug\HANGMAN.exe
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\bin\Debug\HANGMAN.pdb
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\bin\Debug\HANGMAN.xml
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\HANGMAN.Resources.resources
+C:\Users\Toled\Desktop\AHORCADO - copia\testgame\obj\Debug\AHORCADO.vbproj.CoreCompileInputs.cache
